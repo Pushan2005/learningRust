@@ -24,3 +24,9 @@ Lets see how this goes
     -   i32, u32, bool, char, etc
 -   Tuples (different data types)
 -   Arrays (same data type)
+
+## Day 6
+
+-   Functions
+-   Comments
+-   Control flow (if and loops)
