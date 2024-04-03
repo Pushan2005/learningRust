@@ -25,7 +25,7 @@ Lets see how this goes
 -   Tuples (different data types)
 -   Arrays (same data type)
 
-## Day 6
+## Day 6-7
 
 -   Functions
 -   Comments
